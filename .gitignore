@@ -1,0 +1,10 @@
+/node_modules
+
+/config/*.js
+!/config/*.sample.js
+
+/front
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
