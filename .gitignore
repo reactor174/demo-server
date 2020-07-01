@@ -1,0 +1,11 @@
+/node_modules
+
+/config/*.js
+!/config/*.sample.js
+
+/front/*
+!/front/README
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
