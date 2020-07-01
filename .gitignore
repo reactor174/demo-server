@@ -3,7 +3,8 @@
 /config/*.js
 !/config/*.sample.js
 
-/front
+/front/*
+!/front/README
 
 npm-debug.log*
 yarn-debug.log*
